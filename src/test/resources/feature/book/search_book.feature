@@ -1,4 +1,4 @@
-@ST_1200 @Story_BookSearch
+@ST_4 @Story_BookSearch
 Feature: Book search
  To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book.
 
@@ -6,22 +6,22 @@ Background:
 
 And today is 2015-11-18
 
-@SC_1313
+@SC_29
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2016-06-21
 
-@SC_1314
+@SC_30
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-@SC_1315
+@SC_31
 Scenario: Check update from GIT
 Given I created new scenario in repository
 Then I can see it in Relime
 
-@SC_1316 @Critical @Test_1
+@SC_32 @Critical @Test_1
 Scenario: Search books by publication year
 Given a book with the title 'One good book', written by 'Anonymous', published in 14 March 2013
 And another book with the title 'Some other book', written by 'Tim Tomson', published in 23 August 2014

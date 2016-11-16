@@ -1,121 +1,121 @@
-@ST_1197 @123
+@ST_1 @123
 Feature: 123
 
-@SC_1285
+@SC_1
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1286
+@SC_2
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1287
+@SC_3
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1288
+@SC_4
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1289
+@SC_5
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1290
+@SC_6
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1291
+@SC_7
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1292
+@SC_8
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1293
+@SC_9
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1294
+@SC_10
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1295
+@SC_11
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1296
+@SC_12
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1297
+@SC_13
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1298
+@SC_14
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1299
+@SC_15
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1300
+@SC_16
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1301
+@SC_17
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1302
+@SC_18
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1303
+@SC_19
 Scenario: 123
 Given 123
 When 321
 Then 123
 
-@SC_1304 @123
+@SC_20 @123
 Scenario: 123
 123
 Given 123
